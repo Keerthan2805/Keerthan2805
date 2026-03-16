@@ -78,4 +78,6 @@ I enjoy building projects and learning new technologies.
 
 </p>
 
+📧 Email: **[keerthi28032005@gmail.com](mailto:keerthi28032005@gmail.com)**
+
 
