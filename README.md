@@ -78,13 +78,10 @@ I enjoy building projects and learning new technologies.
 
 </p>
 
-📧 Email: **keerthi28032005@gmail.com**
-<a href="mailto:keerthi28032005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
 
-</p>
 
-📧 Email: **[keerthi28032005@gmail.com](mailto:keerthi28032005@gmail.com)**
+
+
+
 
 
