@@ -34,14 +34,7 @@ I enjoy building projects and learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthan2805&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthan2805&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
