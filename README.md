@@ -61,20 +61,4 @@ I enjoy building projects and learning new technologies.
 
 ---
 
-## 🌐 Connect With Me
 
-<p>
-
-<a href="https://github.com/Keerthan2805">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/keerthana-g">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:keerthi28032005@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</p>
