@@ -1,97 +1,69 @@
-<h1 align="center">Hi 👋, I'm Keerthana Gunaseker</h1>
-<h3 align="center">Bachelor of Computer Application (BCA) | Aspiring Software Developer</h3>
+# Hi 👋 I'm Keerthana Gunaseker
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;BCA+Graduate;Learning+Python+Java+and+Web+Development;Future+Software+Developer" />
-</p>
+🎓 Bachelor of Computer Application (BCA)
+💻 Aspiring Software Developer
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Bachelor of Computer Application (BCA)
-* 💻 Interested in **Software Development**
-* 🌱 Currently learning **Python, Java, and Web Development**
-* 🎯 Goal: Become a **Professional Software Developer**
+I am **Keerthana Gunaseker**, a Bachelor of Computer Application graduate passionate about programming and software development.
+I enjoy learning new technologies and building practical programming projects.
 
 ---
 
-## 🚀 Skills
-
-### 💻 Programming Languages
+## 💻 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🛠 Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 📚 Currently Learning
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,postgresql,git,github,vscode,idea,netbeans" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-</p>
+* Spring Boot
+* Data Structures and Algorithms
+* Advanced Java
+
+---
+---
+
+## 📂 Projects
+
+### 🔹 Student Management System
+
+A simple program to manage student details such as name, marks, and grade using programming concepts.
+
+**Technologies:** Java / C
 
 ---
 
-## 🔥 GitHub Streak
+### 🔹 Python Calculator
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight"/>
-</p>
+A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark"/>
-</p>
+**Technologies:** Python
 
 ---
 
-## 👀 Profile Views
+### 🔹 Temple Information System
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+A console-based program to store and display temple details.
 
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/yourusername
+**Technologies:** C
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+### 🔹 Personal Portfolio Website
+
+A simple website to showcase profile, skills, and projects.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+
+## 📫 Contact
+
+GitHub: https://github.com/Keerthan2805
